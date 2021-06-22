@@ -8,9 +8,9 @@ script: npm run build
 
 deploy:
  provider: pages
- skip_cleanup: true
+ cleanup: true
  github_token: $GITHUB_TOKEN
  local_dir: dist
- eage: true
+ edge: true
  on:
    branch: master
