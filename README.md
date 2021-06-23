@@ -1,29 +1,13 @@
-# sql_autocomplete_comparison
+# Descripion
+This project is a web application. Would list many SQL commands input scenario. And provide different IDE or tool's autocomplete list. Make users easily compare between tool's functionality.
 
-## Project setup
-```
-npm install
-```
+Furthermore, when creating a new SQL autocomplete tool. Can concretely create many scenarios and setting expecting to autocomplete list. Then can import the specified interface of the JSON file about the actual autocomplete result. To visually compare actual and expect differences.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# Goal
 
-### Compiles and minifies for production
-```
-npm run build
-```
+# Installation
 
-### Run your unit tests
-```
-npm run test:unit
-```
+# Usage
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Development TODO:
+- [x] make a template about vue.js project
