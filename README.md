@@ -11,3 +11,6 @@ Furthermore, when creating a new SQL autocomplete tool. Can concretely create ma
 
 # Development TODO:
 - [x] make a template about vue.js project
+- [ ] make basic interface to show all scenarios
+  - [x] show sql statement and fake cursor
+  - [ ] have pop windows to show all tables's schema
